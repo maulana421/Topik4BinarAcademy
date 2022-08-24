@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bg_bulet.xml" value="0.13" />
+        <entry key="app/src/main/res/drawable/bg_bulet_1.xml" value="0.13" />
+        <entry key="app/src/main/res/drawable/bg_bulet_2.xml" value="0.13" />
+        <entry key="app/src/main/res/drawable/bg_bulet_3.xml" value="0.13" />
+        <entry key="app/src/main/res/drawable/bg_corner.xml" value="0.1565" />
+        <entry key="app/src/main/res/drawable/bg_corner_1.xml" value="0.13" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/ic_book.xml" value="0.1565" />
+        <entry key="app/src/main/res/drawable/tranparant_bck.xml" value="0.151" />
+        <entry key="app/src/main/res/layout/activity_design2.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_design_satu.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1693840579710145" />
+        <entry key="app/src/main/res/layout/design_dua.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/design_satu.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/latihan_relativ.xml" value="0.1693840579710145" />
+        <entry key="app/src/main/res/layout/linear_hor.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/relativ.xml" value="0.2" />
+        <entry key="app/src/main/res/menu/bottom.xml" value="0.13355263157894737" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
